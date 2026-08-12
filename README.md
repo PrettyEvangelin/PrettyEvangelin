@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pretty Evangelin</h1>
+<h3 align="center">Turning data into decisions — Data Analyst in the making.</h3>
 
-<!--
-**PrettyEvangelin/PrettyEvangelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrettyEvangelin&label=Profile%20views&color=0e75b6&style=flat" alt="PrettyEvangelin" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm exploring how data can be turned into real decisions — from predictive models to clean, usable pipelines. Right now I'm deep in machine learning and data engineering, building projects that touch everything from healthcare risk prediction to deceptive-text detection.
+
+- 🎯 Open to **Data Analyst / Data Engineering** roles
+- 🛠️ Currently building an **ad-tech data pipeline** project
+- 📊 Comfortable with the full flow: data cleaning → modeling → visualization
+- 💬 Ask me about **Python, Machine Learning, SQL, and Data Visualization**
+- 📫 Reach me at **prettyevangelin04@gmail.com**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🩺 **[Healthcare-Readmission](https://github.com/PrettyEvangelin/Healthcare-Readmission)** — Predicts hospital readmission risk using XGBoost and clinical features, with a Streamlit app for real-time predictions.
+- 🕵️ **[Text-based-deception](https://github.com/PrettyEvangelin/Text-based-deception)** — Python/ML project identifying deceptive statements in text using linguistic and TF-IDF features.
+- 🐾 **[paw-haven](https://github.com/PrettyEvangelin/paw-haven)** — A responsive static site for an animal shelter (adoption, volunteering, donations).
+- 📢 **campaign-intelligence-platform** — Ongoing work exploring campaign/ad data analysis.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrettyEvangelin&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyEvangelin&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pretty-evangelin-20213924a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prettyevangelin04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PrettyEvangelin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
