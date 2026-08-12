@@ -37,7 +37,7 @@ I'm exploring how data can be turned into real decisions — from predictive mod
 - 🩺 **[Healthcare-Readmission](https://github.com/PrettyEvangelin/Healthcare-Readmission)** — Predicts hospital readmission risk using XGBoost and clinical features, with a Streamlit app for real-time predictions.
 - 🕵️ **[Text-based-deception](https://github.com/PrettyEvangelin/Text-based-deception)** — Python/ML project identifying deceptive statements in text using linguistic and TF-IDF features.
 - 🐾 **[paw-haven](https://github.com/PrettyEvangelin/paw-haven)** — A responsive static site for an animal shelter (adoption, volunteering, donations).
-- 📢 **campaign-intelligence-platform** — Ongoing work exploring campaign/ad data analysis.
+- 📢 **[campaign-intelligence-platform](https://github.com/PrettyEvangelin/campaign-intelligence-platform)** — Ongoing work exploring campaign/ad data analysis.
 
 ---
 
