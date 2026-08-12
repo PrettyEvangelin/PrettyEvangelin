@@ -41,11 +41,15 @@ I'm exploring how data can be turned into real decisions — from predictive mod
 
 ---
 
-### 📊 GitHub Stats
+🎯 Currently Focusing On
+🔧 Building an ad-tech data pipeline end-to-end (ingestion → transformation → dashboard)
+📈 Sharpening SQL + data modeling for analytics work
+🧠 Leveling up ML fundamentals with real datasets, not just tutorials
+🎓 Prepping for Data Analyst / Data Engineering interviews
 
-<p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=PrettyEvangelin&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" /> </p> <p align="left"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrettyEvangelin&layout=compact&theme=radical&hide_border=true" height="165" /> </p>
+<p align="center"> <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&font=Cousine" alt="Random Dev Quote" /> </p>
+
 ---
-
 ### 🌐 Connect with Me
 
 <p align="left">
