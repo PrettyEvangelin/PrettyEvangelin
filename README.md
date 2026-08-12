@@ -43,11 +43,7 @@ I'm exploring how data can be turned into real decisions — from predictive mod
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrettyEvangelin&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyEvangelin&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
+<p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=PrettyEvangelin&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" /> </p> <p align="left"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrettyEvangelin&layout=compact&theme=radical&hide_border=true" height="165" /> </p>
 ---
 
 ### 🌐 Connect with Me
