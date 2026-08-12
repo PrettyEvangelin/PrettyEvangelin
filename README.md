@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pretty Evangelin</h1>
-<h3 align="center">Turning data into decisions — Data Analyst in the making.</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrettyEvangelin&label=Profile%20views&color=0e75b6&style=flat" alt="PrettyEvangelin" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Data+Analyst+in+the+making;Open+to+Data+%2F+Analytics+roles" alt="Typing SVG" />
+
 
 ---
 
