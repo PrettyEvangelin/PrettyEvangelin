@@ -53,7 +53,7 @@ I'm exploring how data can be turned into real decisions — from predictive mod
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pretty-evangelin-20213924a/">
+  <a href="https://www.linkedin.com/in/pretty-evangelin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prettyevangelin04@gmail.com">
