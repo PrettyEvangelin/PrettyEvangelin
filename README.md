@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pretty Evangelin</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Data+Analyst+in+the+making;Open+to+Data+%2F+Analytics+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Data+Engineer+in+the+making;Open+to+Data+%2F+Analytics+roles" alt="Typing SVG" />
 
 
 ---
